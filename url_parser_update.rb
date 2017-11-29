@@ -83,6 +83,8 @@ class UrlParser
 
 end
 
+#GITHUB HOMEWORK!!!
+
 # @new_url = UrlParser.new('https://ruby-doc.org/core-2.4.1/String.html#method-i-include-3F')
 # @new_url = UrlParser.new('http://www.google.com:60/search?q=cat&name=Tim#img=FunnyCat')
 #puts "Full URL: http://www.google.com:60/search?q=cat&name=Tim#img=FunnyCat"
